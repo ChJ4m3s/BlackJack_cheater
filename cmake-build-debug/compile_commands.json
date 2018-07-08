@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/giacomo/CLionProjects/lab_ocv_template/cmake-build-debug/src",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -I/Users/giacomo/CLionProjects/lab_ocv_template/include -isystem /usr/local/include -isystem /usr/local/include/opencv  -g   -std=gnu++1z -o \"CMakeFiles/assignment1 ~ Giacomo Chiarot 854893.dir/main.cpp.o\" -c /Users/giacomo/CLionProjects/lab_ocv_template/src/main.cpp",
+  "file": "/Users/giacomo/CLionProjects/lab_ocv_template/src/main.cpp"
+}
+]

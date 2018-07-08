@@ -1,0 +1,14 @@
+/Users/giacomo/CLionProjects/lab_ocv_template/cmake-build-debug/CMakeFiles/install/local.dir
+/Users/giacomo/CLionProjects/lab_ocv_template/cmake-build-debug/CMakeFiles/install/strip.dir
+/Users/giacomo/CLionProjects/lab_ocv_template/cmake-build-debug/CMakeFiles/install.dir
+/Users/giacomo/CLionProjects/lab_ocv_template/cmake-build-debug/CMakeFiles/list_install_components.dir
+/Users/giacomo/CLionProjects/lab_ocv_template/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/giacomo/CLionProjects/lab_ocv_template/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/giacomo/CLionProjects/lab_ocv_template/cmake-build-debug/src/CMakeFiles/install/local.dir
+/Users/giacomo/CLionProjects/lab_ocv_template/cmake-build-debug/src/CMakeFiles/install/strip.dir
+/Users/giacomo/CLionProjects/lab_ocv_template/cmake-build-debug/src/CMakeFiles/install.dir
+/Users/giacomo/CLionProjects/lab_ocv_template/cmake-build-debug/src/CMakeFiles/list_install_components.dir
+/Users/giacomo/CLionProjects/lab_ocv_template/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
+/Users/giacomo/CLionProjects/lab_ocv_template/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+/Users/giacomo/CLionProjects/lab_ocv_template/cmake-build-debug/src/CMakeFiles/run.dir
+/Users/giacomo/CLionProjects/lab_ocv_template/cmake-build-debug/src/CMakeFiles/assignment1 ~ Giacomo Chiarot 854893.dir
